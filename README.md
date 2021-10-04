@@ -9,6 +9,6 @@
   
 
 
-[![Linkedin: deroeckaxel](https://img.shields.io/badge/-deroeckaxel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/deroeckaxel/)
+[![Linkedin: deroeckaxel](https://img.shields.io/badge/-deroeckaxel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deroeckaxel/)](https://www.linkedin.com/in/deroeckaxel/)
 
 [![GitHub AxelDeRoeck](https://img.shields.io/github/followers/AxelDeRoeck?label=follow&style=social)](https://github.com/AxelDeRoeck)
